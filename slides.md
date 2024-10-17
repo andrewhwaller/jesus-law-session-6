@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Jesus and the Law of Israel - Session 5
+title: Jesus and the Law of Israel - Session 6
 mdc: true
 download: true
 export:
@@ -28,58 +28,47 @@ fonts:
 
 # Jesus and the Law of Israel
 
-## Session 5: Forces of Death Three Ways
+## Session 6: The Sects Talk
 
 ---
-layout: default 
+layout: statement
 ---
-
-# Ritual impurity
-1. Unavoidable, sometimes natural, and part of everyday life.
-2. Can be contracted from objects or substances.
-3. Can be transmitted to others directly and indirectly.
-4. Removed by time, ritual washing, and sometimes sacrifice.
-5. ***Not*** sinful! It is not a sin to become ritually impure.
+# Mark 5
+## Jesus, who strode on the sea, confronts and eradicates the forces of death in the form of demonic impurity, severe bodily impurity, and corpse impurity.
 
 ---
-layout: statement 
+layout: quote 
+---
+# Malachi 3:1--4:4
+“See, I am sending my messenger to prepare the way before me, and the Lord whom you seek will suddenly come to his temple.
+The messenger of the covenant in whom you delight—indeed, he is coming, says the <sc>Lord</sc> of hosts.
+Then I will draw near to you for judgment\.\.\.\. 
+For I the <sc>Lord</sc> do not change; therefore you, O children of Jacob, have not perished.
+Ever since the days of your ancestors you have turned aside from my statutes and have not kept them.
+Return to me, and I will return to you, says the <sc>Lord</sc> of hosts. But you say, ‘How shall we return?’...
+Then those who revered the <sc>Lord</sc> spoke with one another.
+The <sc>Lord</sc> took note and listened\.\.\.\.
+They shall be mine, says the <sc>Lord</sc> of hosts, my special possession on the day when I act\.\.\.\.
+Then once more you shall see the difference between the righteous and the wicked, between one who serves God and one who does not serve him\.\.\.\.
+Remember the teaching of my servant Moses, the statutes and ordinances that I commanded him at Horeb for all Israel.” 
+
+<!--
+* In this section of Malachi, God is dialoging with his people about their past failures and the coming day of judgment.
+    * There is a lack of direction in the responses to God's recounting of unfaithfulness, i.e., "How shall we return?" "How have we robbed you?" "How have we spoken against you?" 
+* Nevertheless, God asserts that a return to faithfulness will be met with blessing (v. 10).
+* Return to the teaching of Moses is key; unity within the nation will be spurred on by the influence of Elijah (Mal 4:5).
+-->
+---
+layout: statement
 ---
 
-# Jesus does not...
-## violate biblical law
-## address the problem of cruel social ostracism 
-## prioritize compassion over strict legal observance
+# “How shall we return?”
 
 ---
 layout: statement
 ---
 
-# Jesus does...
-## show compassion in helping the man
-## eradicate a source of impurity by defeating the forces of death
-## command the man to observe the law of Moses
-
----
-layout: default
----
-# Demons in early Jewish literature
-* *Genesis Apocryphon*: Abraham casts out demons that afflict Pharaoh
-* *1 Enoch*: Demons are the wandering spirits of the Nephilim, descendants of the fallen angels
-* *Jubilees*: Demons influence Noah's offspring after the flood
-* 11Q5 19.13--16: “Forgive my sin, YHWH, and cleanse me from my iniquity. Bestow on me a spirit of faith and knowledge. Let me not stumble in transgression. Let not Satan rule over me, nor an evil spirit; let neither pain nor evil purpose take possession of my bones.”
-
-
----
-layout: quote
----
-# Numbers 19:14--20
-This is the law when someone dies in a tent: everyone who comes into the tent, and everyone who is in the tent, shall be \[impure\] seven days. And every open vessel with no cover fastened on it is \[impure\]. Whoever in the open field touches one who has been killed by a sword, or who has died naturally, or a human bone, or a grave, shall be \[impure\] seven days. For the \[impure\] they shall take some ashes of the burnt purification offering, and running water shall be added in a vessel; then a pure person shall take hyssop, dip it in the water, and sprinkle it on the tent, on all the furnishings, on the persons who were there, and on whoever touched the bone, the slain, the corpse, or the grave. The \[pure\] person shall sprinkle the \[impure\] ones on the third day and on the seventh day, thus purifying them on the seventh day. Then they shall wash their clothes and bathe themselves in water, and at evening they shall be \[pure\]. Any who are \[impure\] but do not purify themselves, those persons shall be cut off from the assembly, for they have defiled the sanctuary of the <sc>Lord</sc>. Since the water for \[purification\] has not been dashed on them, they are \[impure\].
-
----
-layout: statement
----
-# The Forces of Death Three Ways
-[Mark 5](https://www.esv.org/Mark+5/)
+# How are Jews in the Second Temple period answering this question?
 
 ---
 layout: qr-code

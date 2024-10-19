@@ -1,7 +1,7 @@
 ---
 theme: default
 favicon: /favicon.ico
-background: legion.jpg
+background: temple.jpg
 class: text-center
 lineNumbers: false
 info: |
@@ -28,7 +28,7 @@ fonts:
 
 # Jesus and the Law of Israel
 
-## Session 6: The Sects Talk
+## Session 6: How Shall We Return? (Or, The Sects Talk)
 
 ---
 layout: statement
@@ -39,6 +39,7 @@ layout: statement
 ---
 layout: quote 
 ---
+
 # Malachi 3:1--4:4
 “See, I am sending my messenger to prepare the way before me, and the Lord whom you seek will suddenly come to his temple.
 The messenger of the covenant in whom you delight—indeed, he is coming, says the <sc>Lord</sc> of hosts.
@@ -58,6 +59,7 @@ Remember the teaching of my servant Moses, the statutes and ordinances that I co
 * Nevertheless, God asserts that a return to faithfulness will be met with blessing (v. 10).
 * Return to the teaching of Moses is key; unity within the nation will be spurred on by the influence of Elijah (Mal 4:5).
 -->
+
 ---
 layout: statement
 ---

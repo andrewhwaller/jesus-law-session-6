@@ -81,6 +81,122 @@ layout: statement
 # “How shall we return?”
 # How are Jews in the Second Temple period answering this question?
 
+<!--
+* Remember that the biblical law is like a traffic code: it tells us the principles of law, but it doesn't tell us how people are actually driving.
+* Biblical law is not a complete system, so we need to look at how people are interpreting and practicing it.
+-->
+
+---
+layout: statement
+---
+
+# “Common Judaism”
+## Mosaic law, Sabbath/feasts, circumcision, *kashrut*, ritual purity.
+
+---
+layout: statement
+---
+
+# Early Jewish Sectarianism
+## Qumran, Sadducees, Pharisees
+
+<!--
+* Sources are tricky.
+    * We basically have Josephus, Qumran texts, the New Testament, and Mishanah/Tosefta as potential witnesses to help us understand early Jewish sectarianism.
+* These groups are not institutional, but rather voluntary associations.
+    * No sectarian movement has any inherent power or authority over the people, the temple, or the priesthood.
+    * These are parties in the sense that they are organized to promote a certain view of life and practice.
+-->
+
+---
+layout: statement
+---
+
+# E. P. Sanders: “I know a good deal less about Pharisaism than has been ‘known’ by many investigators.”
+
+---
+layout: statement
+---
+
+# The portrayals of other early Jewish groups in the Gospels/Acts are *rhetorically shaped*.
+
+---
+layout: statement 
+---
+
+# Qumran
+
+<!--
+* Community in the Judean desert that produced the Dead Sea Scrolls.
+* Believed the Jerusalem priesthood to be corrupt and distanced themselves from the Temple.
+    * Because the community is now the center of worship, the *yahad* takes on some of the properties and functions of the Temple.
+* Conflated the boundaries between ritual and moral purity, with certain sins resulting in temporary exclusion from the community or pure food.
+* Believed themselves to be keeping covenant with God on behalf of the nation and that someday Israel would return to the covenant and join them.
+* Similar to Christianity in some ways, especially the language of a non-physical temple made up of humans, and various other messianic and eschatological beliefs.
+-->
+
+---
+layout: statement
+---
+
+# Sadducees
+
+<!--
+* Relatively small group, but associated with the Jerusalem priesthood.
+* According to Josephus (Ant. 13), accepted only the Torah as authoritative and rejected any other rules or traditions.
+    * This seems to be specific to *legal observance*, i.e., Josephus shouldn't be read as implying that they denied all other scripture.
+* According to Acts 23, "the Sadducees say that there is no resurrection, or angel, or spirit; but the Pharisees acknowledge all three."
+* Vanderkam, 190: "What appears to be the case is that the Sadducees and the Qumran sectarians adhered to a conservative, strict approach to interpreting and applying the law of Moses, an approach that may well have been one maintained and transmitted in priestly circles."
+-->
+
+---
+layout: statement
+---
+
+# Pharisees
+
+<!--
+* A larger and more popular group than the Sadducees.
+* Still not an institutional group, but a voluntary association.
+* The Pharisees had a different take on purity.
+    * They emphasized the self as the locus of purity, rather than the Temple (Furstenberg, 83).
+    * In order to allow for a practice of purity throughout daily life, the Pharisees adopted an accessible policy of "nonseparation" (Furstenberg, 83).
+        * Instead of the stricter policy of separation from impurity, the Pharisees alllowed for a lenient approach.
+        * This expands biblical ideas about purity and modifies the separation between pure/impure in biblical law.
+* The Pharisees observed "the traditions of the elders," which are described as such because they are not in biblical law.
+    * Sometimes the Pharisees are accused of "adding to the law," but they are actually careful to distinguish between the law and the traditions.
+-->
+
+---
+layout: quote
+---
+
+# Matthew 23:25--26
+“Woe to you, scribes and Pharisees, hypocrites!
+For you clean the outside of the cup and of the plate, but inside they are full of greed and self-indulgence.
+You blind Pharisee! First clean the inside of the cup, so that the outside also may become clean.”
+
+# m. Kelim 25:6
+“\[Parts of a vessel\] upon which \[impure\] liquids fell—one dries them, and they are pure\.\.\.\. A vessel whose exterior was rendered impure by liquid—its exterior is impure. Its interior rims, handle sockets, and handles \[remain\] pure. But if its inner part becomes impure the whole is impure.”
+
+# m. Yadayim 4:7
+“The Sadducees say: We complain against you, Pharisees, for you declare a liquid stream pure.”
+
+<!--
+* We might also think of Jesus's critique in Mark 7, where his basic charge is that the Pharisees permit binding oaths that cause a violation of the biblical law to honor parents.
+-->
+
+---
+layout: statement
+---
+
+# According to Jesus, the problem with the Pharisees is not that they are “strict”!
+
+<!--
+* According to the Pharisees' critics, they are too lenient!
+* Jesus's problem with the Pharisees is that they adopt lenient policies for the sake of observing purity, but then also neglect "weightier matters."
+-->
+
 ---
 layout: qr-code
 ---

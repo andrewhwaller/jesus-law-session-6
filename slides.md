@@ -70,14 +70,15 @@ layout: statement
 layout: gallery-frame
 image: temple.jpg
 backgroundSize: contain
-work: The Rebuilding of the Temple, Ezra 3
-metadata: "Gustav Dore"
+work: The Rebuilding of the Temple Is Begun (Ezr. 1:1-11)
+metadata: "Gustav Doré, 1866"
 ---
 
 ---
 layout: statement
 ---
 
+# “How shall we return?”
 # How are Jews in the Second Temple period answering this question?
 
 ---

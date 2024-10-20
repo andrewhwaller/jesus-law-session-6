@@ -165,6 +165,10 @@ layout: statement
         * This expands biblical ideas about purity and modifies the separation between pure/impure in biblical law.
 * The Pharisees observed "the traditions of the elders," which are described as such because they are not in biblical law.
     * Sometimes the Pharisees are accused of "adding to the law," but they are actually careful to distinguish between the law and the traditions.
+* This is counterintuitive to us.
+    * We see more rules as being more strict or more burdensome.
+    * It's important to remember that the Pharisees are trying to enable an accessible purity in daily life.
+    * Instead of the stricter and more defined sort of separation that we find in biblical law, there is a seemingly more complicated but still permissive form of purity that allows for everyday circumstances without demanding strict separation.
 -->
 
 ---
@@ -194,6 +198,7 @@ layout: statement
 
 <!--
 * According to the Pharisees' critics, they are too lenient!
+* According to Qumran, the Pharisees are "seekers after smooth things/easy interprerations."
 * Jesus's problem with the Pharisees is that they adopt lenient policies for the sake of observing purity, but then also neglect "weightier matters."
 -->
 

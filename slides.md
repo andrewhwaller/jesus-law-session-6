@@ -67,6 +67,14 @@ layout: statement
 # “How shall we return?”
 
 ---
+layout: gallery-frame
+image: temple.jpg
+backgroundSize: contain
+work: The Rebuilding of the Temple, Ezra 3
+metadata: "Gustav Dore"
+---
+
+---
 layout: statement
 ---
 
